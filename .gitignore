@@ -1,0 +1,5 @@
+/RetirementProtocol/bin
+*.cache
+/RetirementProtocol/obj
+*.vsidx
+/RetirementProtocol/.vs
